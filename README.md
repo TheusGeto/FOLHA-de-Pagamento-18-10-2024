@@ -39,7 +39,7 @@ Desconto fixo de R$ 150,00 por dependente.
 3. Pergunte se o funcionário deseja receber vale transporte (s/n).
 4. Pergunte o valor do vale refeição fornecido pela empresa.
 5. Calcule os descontos e acréscimos na folha de pagamento do funcionário.
-6. Mostre o salário líquido do funcionário após os descontos e acréscimos.
+6. Mostre o salário líquido do funcionário após os descontos e acréscimos e quanto foi retirado so salario.
 
 ## Observações
 
